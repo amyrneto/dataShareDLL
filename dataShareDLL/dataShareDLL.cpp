@@ -2,8 +2,7 @@
 //
 
 #include "stdafx.h"
-
-#include "dlltest.h"
+#include "dataShareDLL.h"
 
 #pragma data_seg("SHARED")
 int x = 0;
